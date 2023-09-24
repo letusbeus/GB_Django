@@ -1,0 +1,1 @@
+To watch the lecture please follow the link [Lesson 3: Working with Views and Templates](https://gbcdn.mrgcdn.ru/uploads/record/269469/attachment/2061035883c03d2297b7e12e7b8abe0b.mp4)

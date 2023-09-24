@@ -1,0 +1,1 @@
+To watch the lecture please follow the link [Lesson 2. Working with models](https://gbcdn.mrgcdn.ru/uploads/record/269471/attachment/b0e258c71c79a2530472c6540c6f0efa.mp4)

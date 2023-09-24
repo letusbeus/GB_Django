@@ -1,0 +1,1 @@
+To watch the lecture please follow the link [Lesson 1: Introduction to Django](https://gbcdn.mrgcdn.ru/uploads/record/269466/attachment/7cea11d129fded1525def847fd6e4f05.mp4)
