@@ -1,0 +1,18 @@
+{% extends 'base.html' %}
+
+{% block title %}Products purchased by customer ID {{ customer_id }} over the last {{ period }} days: {% endblock %}
+{% block content %}
+    <h1>List of purchased products</h1>
+    {% if products %}
+    <p>
+        Customer ID {{ customer_id }} has purchased the following products over the last {{ period }} days:
+    </p>
+    <ul style="list-style-type: none; padding: 0;">
+        {% for product in products %}
+            <li>{{ forloop.counter }}. {{ product }}</li>
+        {% endfor %}
+    </ul>
+    {% else %}
+    <p>Customer ID {{ customer_id }} has not placed any orders for the last {{ period }} days.</p>
+    {% endif %}
+{% endblock %}
